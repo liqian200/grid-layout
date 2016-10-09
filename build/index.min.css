@@ -1,0 +1,8 @@
+/**
+  * grid-layout
+  * 
+  * @author 大漠
+  * @version 0.0.1
+  * Copyright 2016 MIT licensed.
+  */
+body,html{margin:0;padding:0;width:100vw;height:100vh}.main{height:100vh;text-align:center;color:#90ee90;font-size:random-between(56px,80px);background:url(http://ww3.sinaimg.cn/mw1024/90f78f62jw1ev08rb6wmhj20v915o7e1.jpg) 50% repeat-y;background-size:cover;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center}
