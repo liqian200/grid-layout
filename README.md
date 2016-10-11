@@ -16,6 +16,13 @@ To define a grid use new values of the display property `grid` or `inline-grid`.
 
 ![Defining a Grid](http://www.w3cplus.com/sites/default/files/blogs/2016/1610/CSS_Grid_Layout_Example__1__Defining_a_Grid.png "Defining a Grid")
 
+#### Line-based placement
+
+Positioning items on the grid using line numbers. Read the [specification](https://drafts.csswg.org/css-grid/#line-placement).
+
+![Line-based placement](http://www.w3cplus.com/sites/default/files/blogs/2016/1610/CSS_Grid_Layout_Example__2__Line-based_placement.png "Line-based placement")
+
+
 ### UI Patterns
 
 
