@@ -47,6 +47,7 @@ The tutorial consists of three parts: an English tutorial, a Chinese tutorial, a
 
 ### Englisth Tutorial
 
+- [Grid Layout Summertime](https://blogs.igalia.com/mrego/2016/10/13/grid-layout-summertime/)
 - [Will we be flattening our HTML for CSS Grids?](https://css-tricks.com/will-flattening-html-css-grids/)
 - [Performance analysis of Grid Layout](https://blogs.igalia.com/jfernandez/2015/06/24/performance-on-grid-layout/)
 
