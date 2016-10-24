@@ -50,6 +50,7 @@ The tutorial consists of three parts: an English tutorial, a Chinese tutorial, a
 - [Grid Layout Summertime](https://blogs.igalia.com/mrego/2016/10/13/grid-layout-summertime/)
 - [Will we be flattening our HTML for CSS Grids?](https://css-tricks.com/will-flattening-html-css-grids/)
 - [Performance analysis of Grid Layout](https://blogs.igalia.com/jfernandez/2015/06/24/performance-on-grid-layout/)
+- [Solving Problems With CSS Grid and Flexbox: The Card UI](https://webdesign.tutsplus.com/tutorials/solving-problems-with-css-grid-and-flexbox-the-card-ui--cms-27468)
 
 ### 中文教程
 
